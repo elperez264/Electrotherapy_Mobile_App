@@ -20,4 +20,4 @@ Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2023-09-18T15:46:18.35
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2023-09-18T15:46:25.738Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2023-09-18T15:46:25.739Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2023-09-18T15:46:25.798Z
-Electro_Mobile.exe	2024-01-19T15:48:16.632Z
+Electro_Mobile.exe	2024-01-29T17:14:32.008Z
